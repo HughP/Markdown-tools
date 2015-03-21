@@ -10,3 +10,9 @@ https://github.com/mages/googleVis/blob/master/vignettes/Using_googleVis_with_kn
 
 ##General Syntax
 https://guides.github.com/features/mastering-markdown/
+
+##Scritps and Editors
+* http://dillinger.io/
+* https://stackedit.io/editor#synchronization
+* http://markdown-editor.com/
+* https://github.com/trepidacious/gdocs2md
