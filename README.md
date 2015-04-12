@@ -23,3 +23,8 @@ https://guides.github.com/features/mastering-markdown/
 * Commandline markdown tools: http://stackoverflow.com/questions/7694887/is-there-a-command-line-utility-for-rendering-github-flavored-markdown
 * http://fletcherpenney.net/multimarkdown/
 * Grammar/parser for Markdown: http://fletcher.github.io/peg-multimarkdown/
+
+##PanDocs
+* http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown
+* http://johnmacfarlane.net/pandoc/index.html
+* AsciiDocs: http://www.methods.co.nz/asciidoc/userguide.html#_bibliography_lists
